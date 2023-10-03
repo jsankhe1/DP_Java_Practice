@@ -2,7 +2,7 @@ package Binary_Search;
 import java.util.List;
 import java.util.Scanner;
 import java.util.Collections;
-// import Binary_Search.*;
+import Binary_Search.*;
 
 public class InputHandler {
 

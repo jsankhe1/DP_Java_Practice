@@ -2,11 +2,10 @@ package Binary_Search;
 import java.util.List;
 import java.util.Scanner;
 import java.util.Collections;
-// import Binary_Search.*;
 
-public class InputHandler {
+class InputHandler {
 
-    public static void inputManager(){
+    static void inputManager(){
         Scanner scanner = new Scanner(System.in);
         // call and store the return valye of a method from Binary_Search.RandomNumberArrayList
         List<Integer> randomList = RandomNumberArrayList.RandomIntList();
@@ -22,7 +21,6 @@ public class InputHandler {
         BinarySearch searchinAlgo = new BinarySearch();
 
         searchinAlgo.binarySearch(randomList, searchNumber);
-        scanner.close();
     }
 
 }

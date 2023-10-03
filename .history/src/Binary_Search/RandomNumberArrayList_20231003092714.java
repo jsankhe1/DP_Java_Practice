@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
-public class RandomNumberArrayList
+    class RandomNumberArrayList
     // I used no modifer for class Binary_Search.RandomNumberArrayList
     // because I want it to be package-private.
 {

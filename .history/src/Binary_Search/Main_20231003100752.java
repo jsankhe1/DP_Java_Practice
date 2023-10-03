@@ -1,4 +1,4 @@
-package Binary_Search;
+// package Binary_Search;
 // import Binary_Search.InputHandler;
 
 public class Main {

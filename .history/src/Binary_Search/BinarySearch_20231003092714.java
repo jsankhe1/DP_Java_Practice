@@ -2,8 +2,8 @@ package Binary_Search;
 
 import java.util.List;
 
-public class BinarySearch {
-    public void binarySearch(List<Integer> randomList, int searchNumber) {
+class BinarySearch {
+    void binarySearch(List<Integer> randomList, int searchNumber) {
         int size = randomList.size();
         int lower, upper;
         lower = 0;
