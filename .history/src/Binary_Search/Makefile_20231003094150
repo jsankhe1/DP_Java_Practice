@@ -1,9 +1,0 @@
-clean:
-	rm -rf *.class
-
-compile:
-	javac Main.java
-	
-run:
-	javac Main.java
-	java Main.java
